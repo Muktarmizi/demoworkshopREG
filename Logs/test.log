@@ -1,0 +1,15 @@
+2025-08-25 23:13:56,224 - INFO - Testing register page
+2025-08-25 23:23:15,923 - INFO - Testing register page with missing required fields
+2025-08-26 21:51:10,908 - INFO - Testing register page
+2025-08-26 21:53:07,412 - INFO - Testing register page
+2025-08-26 22:21:06,547 - INFO - Testing register page
+2025-08-26 22:38:02,048 - INFO - Testing register page
+2025-08-26 22:39:54,512 - INFO - Testing register page
+2025-08-26 22:42:39,722 - INFO - Testing register page
+2025-08-26 22:47:52,675 - INFO - Testing register page
+2025-08-26 22:48:26,526 - INFO - Testing register page with missing required fields
+2025-08-26 22:48:34,436 - INFO - Testing register page with password mismatch
+2025-08-26 22:48:39,539 - INFO - Testing register page with existing email
+2025-08-26 22:48:45,095 - INFO - Testing register page with invalid email format
+2025-09-08 21:03:40,383 - INFO - Testing register page
+2025-09-08 23:06:40,603 - INFO - Testing register page
