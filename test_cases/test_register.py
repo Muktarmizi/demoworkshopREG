@@ -23,6 +23,7 @@ def test(driver):
 #--------------------------------------Happy Path------------------------------------------------------#
 
 #need to check the user is a already is used by loggin.
+#will do
 def test_register_page(driver):
     logger.info(f"Testing register page")
     register = Register_page(driver)
